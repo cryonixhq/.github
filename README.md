@@ -1,2 +1,9 @@
-# .github
-profile for spaceness
+# Spaceness
+
+creating random things ✨
+
+## Our Projects
+
+### Pineapple
+
+Open source archiving software
