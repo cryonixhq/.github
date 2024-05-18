@@ -1,10 +1,13 @@
-# Spaceness
-creating things
+<p align="center">
+  <img align="center" src="/profile/spaceness.png" width="512"><br>free and open source for everyone
+  <br>
+  <a href="https://spaceness.one">website</a>
+</p>
+<h2>Projects</h2>
 
-[website](https://spaceness.one)
-
-## Stardust
-
+<hr>
+<h3>Stardust</h3>
 The container streaming platform. Use linux workspaces that launches in seconds, and easily disposable.
 
-[github](../../../stardust) | [docs (and future website)](https://stardust.spaceness.one)
+[Github](https://github.com/spaceness/stardust) | [Docs](https://stardust.spaceness.one)
+<hr>
