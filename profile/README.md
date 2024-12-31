@@ -2,9 +2,9 @@
 <p align="center">
   <img src="/assets/spaceness-light.png#gh-light-mode-only">
   <img src="/assets/spaceness-dark.png#gh-dark-mode-only">
-  <br>free and open source for everyone
+  <br>We are a collective of teenagers making open source software for everyone
   <br>
-  <a href="https://spaceness.one">website</a>
+  <a href="https://spaceness.xyz">website</a> | <a href="https://discord.gg/AsfQ4ZhqHC">discord</a>
 </p>
 <h2>Projects</h2>
 <h3>Stardust</h3>
