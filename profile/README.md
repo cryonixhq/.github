@@ -8,7 +8,7 @@
 </p>
 <h2>Projects</h2>
 <h3>Stardust</h3>
-The container streaming platform. Use Linux workspaces that launch in seconds and are easily disposable.
+Stardust is the platform for streaming isolated desktop containers.
 
 <br>
 
