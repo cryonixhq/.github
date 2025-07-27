@@ -1,9 +1,8 @@
 
 <p align="center">
-  <img src="/assets/spaceness-light.png#gh-light-mode-only">
-  <img src="/assets/spaceness-dark.png#gh-dark-mode-only">
-  <br>we build, you deploy
+  <img src="/assets/wordmark.png" width="623">
+  <br> frozen and protected
   <br>
-  <a href="https://spaceness.org">website</a> | <a href="https://discord.gg/spaceness">discord</a>
+  <strike><a href="https://cryonixhq.org">website</a></strike> | <a href="https://discord.gg/foss">discord</a>
 </p>
 
